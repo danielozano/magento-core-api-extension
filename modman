@@ -1,0 +1,5 @@
+# code folder
+app/code/community/Openlabs     app/code/community/Openlabs
+
+# app/etc folder
+app/etc/modules/Openlabs_OpenERPConnector.xml     app/etc/modules/Openlabs_OpenERPConnector.xml
